@@ -1,6 +1,6 @@
 # Fraunhofer Jupyter Notebooks Project
 
-This repository contains Jupyter notebooks for data analysis and research projects.
+This repository contains Jupyter notebooks.
 
 ## Project Structure
 
